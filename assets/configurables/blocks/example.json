@@ -6,7 +6,7 @@
   "model": {
     "type": "unwrap",
     "directional": false,
-    "textures":""
+    "textures":"assets/textures/blocks/debug_block/debug_unwrap.jpg"
   },
 
   "interactive": false,
