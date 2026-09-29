@@ -1,0 +1,22 @@
+{
+  "type": "block",
+  "internal_name": "meinkraft:missing_block",
+  "comment": "Used when a block texture or model is missing",
+
+  "model": {
+    "type": "texture",
+    "directional": false,
+    "textures": {
+      "all": "assets/textures/blocks/placeholders/placeholder_block.jpg"
+    }
+  },
+
+  "interactive": false,
+  "hardness": 999999,
+  "minability": {
+    "hardness": 2,
+    "tool_tags": ["all", "!hand"]
+  },
+
+  "item_texture": "assets/textures/blocks/placeholders/placeholder_block.jpg"
+}

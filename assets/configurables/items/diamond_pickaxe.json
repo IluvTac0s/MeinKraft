@@ -1,0 +1,27 @@
+{
+  "type": "item",
+  "tags":"pickaxe",
+  "internal_name": "meinkraft:diamond_pickaxe",
+
+  "capabilities": {
+    "can_mine": true,
+    "can_hurt": true,
+    "equippable": false,
+    "usable": false
+  },
+
+  "tool": {
+    "mining_power": 5,
+    "durability": 200,
+    "durability_cost": 1
+  },
+
+  "combat": {
+    "damage": 2
+  },
+
+  "appearance": {
+    "model_type": "2d",
+    "texture": "assets/textures/blocks/placeholders/placeholder_block.jpg"
+  }
+}
