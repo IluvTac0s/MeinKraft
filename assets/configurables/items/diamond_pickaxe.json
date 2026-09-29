@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "tags":"pickaxe",
+  "tags": ["pickaxe", "tool", "diamond_tool"],
   "internal_name": "meinkraft:diamond_pickaxe",
 
   "capabilities": {

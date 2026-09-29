@@ -1,16 +1,17 @@
 {
   "type": "block",
   "internal_name": "meinkraft:debug_block",
-  "comment": "debug_block",
+  "comment": "Debug block using an unwrapped texture",
 
   "model": {
     "type": "unwrap",
     "directional": false,
-    "textures":"assets/textures/blocks/debug_block/debug_unwrap.jpg"
+    "textures": "assets/textures/blocks/debug_block/debug_unwrap.jpg"
   },
 
   "interactive": false,
   "hardness": 10,
+
   "minability": {
     "hardness": 1,
     "tool_tags": ["all"]
