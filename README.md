@@ -1,6 +1,7 @@
 MEINKRAFT
 ========
 
+![logo](./icon.jpg)
 A Minecraft-inspired voxel game written in C++.
 
 PROJECT STATUS

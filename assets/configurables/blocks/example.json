@@ -1,0 +1,20 @@
+{
+  "type": "block",
+  "internal_name": "meinkraft:debug_block",
+  "comment": "debug_block",
+
+  "model": {
+    "type": "unwrap",
+    "directional": false,
+    "textures":""
+  },
+
+  "interactive": false,
+  "hardness": 10,
+  "minability": {
+    "hardness": 1,
+    "tool_tags": ["all"]
+  },
+
+  "item_texture": "assets/textures/blocks/placeholders/placeholder_block.jpg"
+}
